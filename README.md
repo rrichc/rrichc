@@ -1,6 +1,9 @@
+### To be edited later, done to practice using git as part of a team.
+
 ### Hi there 👋
 ### I'm a BCS student! I'm in my 3rd year.
 ### Candy is the real joker. Part 2.
+
 <!--
 **rrichc/rrichc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
