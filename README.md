@@ -4,6 +4,10 @@ I am currently a 4th year student in the Bachelor of Computer Science program at
 
 I am also looking for a September 2021 co-op position! Feel free to contact me through my email or LinkedIn if you would like to learn more.
 
+### Languages and Frameworks
+- Java, Dart, C++, JavaScript, Python
+- Node.js, React, Firebase, Flutter
+
 ### Projects
 - [Discord Hackathon Bot](https://github.com/rrichc/discord_hackathon_bot) - A Discord bot that assists in the formation of hackathon teams with basic team management functions
 - [Billable Hour Tracker](https://github.com/rrichc/time-tracker) - A desktop app built in Java with Swing enabling the tracking of billable hours for projects.
