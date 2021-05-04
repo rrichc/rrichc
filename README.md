@@ -2,7 +2,7 @@
 
 I am currently a 4th year student in the Bachelor of Computer Science program at the University of British Columbia. I graduated with a Bachelor of Commerce in Accounting from the University of Alberta, where I went on to work in public accounting for 2 years. Since then I've decided to pursue my interest in software development by undertaking this after-degree program!
 
-I am also looking for a September 2021 co-op position! Feel free to contact me through my email or LinkedIn if you would like to learn more.
+**I am also looking for a September 2021 co-op position (Vancouver or Edmonton Region)! Feel free to contact me through my email or LinkedIn if you would like to learn more.**
 
 ### Languages and Frameworks
 - Java, Dart, C++, JavaScript, Python
