@@ -17,7 +17,7 @@ I am currently a 4th year student in the Bachelor of Computer Science program at
 - [Workmate - HackCamp 2020](https://devpost.com/software/workmate-kizwr0) - An app intended to foster employee relations through charitable social events.
 - [Team CAR - CodeML 2020](https://www.kaggle.com/c/codeml-challenge4/leaderboard) - Placed 2nd in the Movie Reviews Sentiment Analysis Challenge
 
-
+### Learn more about me
 Current Resume: [Richard Chen's Resume](https://github.com/rrichc/rrichc/blob/main/Richard_Chen_Resume.pdf)
 
 LinkedIn: [Richard's LinkedIn Profile](https://www.linkedin.com/in/richard-c-chen/)
