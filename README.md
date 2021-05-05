@@ -8,9 +8,12 @@ I am currently a 4th year student in the Bachelor of Computer Science program at
 - Java, Dart, C++, JavaScript, Python
 - Node.js, React, Firebase, Flutter
 
-### Projects
+### Personal Projects
 - [Discord Hackathon Bot](https://github.com/rrichc/discord_hackathon_bot) - A Discord bot that assists in the formation of hackathon teams with basic team management functions
 - [Billable Hour Tracker](https://github.com/rrichc/time-tracker) - A desktop app built in Java with Swing enabling the tracking of billable hours for projects.
+
+### Learning Projects
+- [Shop App](https://github.com/rrichc/shop_app) - A cross platform (Android & iOS) app built with Dart & Flutter, utilizing Firebase as the backend.
 
 ### Hackathons
 - [AuditApp - Hack the North 2021](https://devpost.com/software/auditapp) - A platform for financial auditors to exchange documents with clients. Uses Google Cloud Document AI to perform document scraping functions.
