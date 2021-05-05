@@ -9,7 +9,7 @@ I am currently a 4th year student in the Bachelor of Computer Science program at
 - Node.js, React, Firebase, Flutter
 
 ### Personal Projects
-- [Discord Hackathon Bot](https://github.com/rrichc/discord_hackathon_bot) - A Discord bot that assists in the formation of hackathon teams with basic team management functions
+- [Discord Hackathon Bot](https://github.com/rrichc/discord_hackathon_bot) - A Discord bot written in JavaScript on Node.js that assists in the formation of hackathon teams with basic team management functions
 - [Billable Hour Tracker](https://github.com/rrichc/time-tracker) - A desktop app built in Java with Swing enabling the tracking of billable hours for projects.
 
 ### Learning Projects
