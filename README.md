@@ -17,8 +17,8 @@ I am currently a 4th year student in the Bachelor of Computer Science program at
 - [Great Places](https://github.com/rrichc/great_places) - An experiment in using Android/iOS native hardware (Camera) through the Flutter SDK. Also used SQLite & the Google Maps API
 
 ### Hackathons
-- [AuditApp - Hack the North 2021](https://devpost.com/software/auditapp) - A platform for financial auditors to exchange documents with clients. Uses Google Cloud Document AI to perform document scraping functions.
-- [Workmate - HackCamp 2020](https://devpost.com/software/workmate-kizwr0) - An app intended to foster employee relations through charitable social events.
+- [AuditApp - Hack the North 2021](https://devpost.com/software/auditapp) - A platform for financial auditors to exchange documents with clients. Uses the MERN stack and Google Cloud Document AI to perform document scraping functions.
+- [Workmate - HackCamp 2020](https://devpost.com/software/workmate-kizwr0) - An app create with React intended to foster employee relations through charitable social events.
 - [Team CAR - CodeML 2020](https://www.kaggle.com/c/codeml-challenge4/leaderboard) - Placed 2nd in the Movie Reviews Sentiment Analysis Challenge
 
 ### Learn more about me
