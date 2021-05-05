@@ -13,7 +13,7 @@ I am currently a 4th year student in the Bachelor of Computer Science program at
 - [Billable Hour Tracker](https://github.com/rrichc/time-tracker) - A desktop app built in Java with Swing enabling the tracking of billable hours for projects.
 
 ### Learning Projects
-- [Shop App](https://github.com/rrichc/shop_app) - A cross platform (Android & iOS) app built with Dart & Flutter, utilizing Firebase as the backend.
+- [Shop App](https://github.com/rrichc/shop_app) - A cross platform (Android & iOS) shopping app built with Dart & Flutter, utilizing Firebase as the backend.
 - [Great Places](https://github.com/rrichc/great_places) - An experiment in using Android/iOS native hardware (Camera) through the Flutter SDK. Also used SQLite & the Google Maps API
 
 ### Hackathons
