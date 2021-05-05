@@ -4,7 +4,7 @@ I am currently a 4th year student in the Bachelor of Computer Science program at
 
 My interests primarily lie in mobile and enterprise app development, however I am open to all new experiences!
 
-**I am also looking for a September 2021 co-op position (Vancouver or Edmonton Region)! Feel free to contact me through my email or LinkedIn if you would like to learn more.**
+**I am also looking for a September 2021 co-op position (Vancouver or Edmonton Region)! Feel free to contact me through my email or LinkedIn on the sidebar if you would like to learn more.**
 
 ### Languages and Frameworks
 - Java, Dart, C++, JavaScript, Python
