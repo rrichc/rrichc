@@ -14,6 +14,7 @@ I am currently a 4th year student in the Bachelor of Computer Science program at
 
 ### Learning Projects
 - [Shop App](https://github.com/rrichc/shop_app) - A cross platform (Android & iOS) app built with Dart & Flutter, utilizing Firebase as the backend.
+- [Great Places](https://github.com/rrichc/great_places) - An experiment in using Android/iOS native hardware (Camera) through the Flutter SDK. Also used SQLite & the Google Maps API
 
 ### Hackathons
 - [AuditApp - Hack the North 2021](https://devpost.com/software/auditapp) - A platform for financial auditors to exchange documents with clients. Uses Google Cloud Document AI to perform document scraping functions.
