@@ -11,17 +11,17 @@ My interests primarily lie in mobile and enterprise app development, however I a
 - Node.js, React, Firebase, Flutter
 
 ### Personal Projects
-- [Discord Hackathon Bot](https://github.com/rrichc/discord_hackathon_bot) - A Discord bot written in JavaScript on Node.js that assists in the formation of hackathon teams with basic team management functions
-- [Billable Hour Tracker](https://github.com/rrichc/time-tracker) - A desktop app built in Java with Swing enabling the tracking of billable hours for projects.
+- [Discord Hackathon Bot](https://github.com/rrichc/discord_hackathon_bot) - A Discord bot written in JavaScript on Node.js that assists in the formation of hackathon teams with basic team management functions.
+- [Billable Hour Tracker](https://github.com/rrichc/time-tracker) - A desktop app built in Java with Swing enabling the tracking of billable hours for projects using a Test-Driven Development approach.
 
 ### Learning Projects
 - [Shop App](https://github.com/rrichc/shop_app) - A cross platform (Android & iOS) shopping app built with Dart & Flutter, utilizing Firebase as the backend.
-- [Great Places](https://github.com/rrichc/great_places) - An experiment in using Android/iOS native hardware (Camera) through the Flutter SDK. Also used SQLite & the Google Maps API
+- [Great Places](https://github.com/rrichc/great_places) - An experiment in using Android/iOS native hardware (Camera) through the Flutter SDK. Also used SQLite & the Google Maps API.
 
 ### Hackathons
 - [AuditApp - Hack the North 2021](https://devpost.com/software/auditapp) - A platform for financial auditors to exchange documents with clients. Uses the MERN stack and Google Cloud Document AI to perform document scraping functions.
 - [Workmate - HackCamp 2020](https://devpost.com/software/workmate-kizwr0) - An app create with React intended to foster employee relations through charitable social events.
-- [Team CAR - CodeML 2020](https://www.kaggle.com/c/codeml-challenge4/leaderboard) - Placed 2nd in the Movie Reviews Sentiment Analysis Challenge
+- [Team CAR - CodeML 2020](https://www.kaggle.com/c/codeml-challenge4/leaderboard) - Placed 2nd in the Movie Reviews Sentiment Analysis Challenge.
 
 ### Learn more about me
 Current Resume: [Richard Chen's Resume](https://github.com/rrichc/rrichc/blob/main/Richard_Chen_Resume.pdf)
