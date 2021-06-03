@@ -4,7 +4,7 @@ I am entering my 4th year as a student in the Bachelor of Computer Science secon
 
 My interests primarily lie in mobile and enterprise app development, however I am open to all new experiences!
 
-**I am also looking for a September 2021 co-op position (Vancouver or Edmonton Region)! Feel free to contact me through my email on the sidebar or [LinkedIn](https://www.linkedin.com/in/richard-c-chen/) if you would like to learn more.**
+**I am also looking for a September 2022 co-op position (Vancouver, Edmonton, Toronto Region)! Feel free to contact me through my email on the sidebar or [LinkedIn](https://www.linkedin.com/in/richard-c-chen/) if you would like to learn more.**
 
 ### Languages and Frameworks
 - Java, Dart, C++, JavaScript, Python
