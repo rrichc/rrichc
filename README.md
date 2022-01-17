@@ -4,7 +4,7 @@ I am entering my 4th year as a student in the Bachelor of Computer Science secon
 
 My interests primarily lie in mobile and enterprise app development, however I am open to all new experiences!
 
-**I am also looking for a September 2022 co-op position (location flexible)! Feel free to contact me through my email on the sidebar or [LinkedIn](https://www.linkedin.com/in/richard-c-chen/) if you would like to learn more.**
+**I am also looking for a Summer 2022 co-op position (location flexible)! Feel free to contact me through my email on the sidebar or [LinkedIn](https://www.linkedin.com/in/richard-c-chen/) if you would like to learn more.**
 
 ### Languages and Frameworks
 - Java, Dart, C++, JavaScript, Python
