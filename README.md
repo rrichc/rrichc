@@ -1,6 +1,6 @@
 ## Hi 👋, my name is Richard Chen
 
-I am entering my 4th year as a student in the Bachelor of Computer Science second-degree program at the University of British Columbia. I graduated with a Bachelor of Commerce in Accounting from the University of Alberta, where I went on to work in public accounting for 2 years. Since then I've decided to pursue my interest in software development by undertaking this after-degree program! 
+I am in my 4th year as a student in the Bachelor of Computer Science second-degree program at the University of British Columbia. I graduated with a Bachelor of Commerce in Accounting from the University of Alberta, where I went on to work in public accounting for 2 years. Since then I've decided to pursue my interest in software development by undertaking this after-degree program! 
 
 My interests primarily lie in mobile and enterprise app development, however I am open to all new experiences!
 
