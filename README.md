@@ -22,7 +22,7 @@ My interests primarily lie in mobile and enterprise app development, however I a
 - [Team CAR - CodeML 2020](https://www.kaggle.com/c/codeml-challenge4/leaderboard) - Placed 2nd in the Movie Reviews Sentiment Analysis Challenge.
 
 ### Learn more about me
-Current Resume (as of May 2023): [Richard Chen's Resume]([https://github.com/rrichc/rrichc/blob/main/Richard_Chen_Resume_Jan_16_2022.pdf](https://github.com/rrichc/rrichc/blob/main/Richard_Chen_Resume%20-%20May%2029%202023.pdf))
+Current Resume (as of May 2023): [Richard Chen's Resume](https://github.com/rrichc/rrichc/blob/main/Richard_Chen_Resume%20-%20May%2029%202023.pdf)
 
 LinkedIn: [Richard's LinkedIn Profile](https://www.linkedin.com/in/richard-c-chen/)
 
