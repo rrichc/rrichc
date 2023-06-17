@@ -26,6 +26,7 @@ My interests primarily lie in mobile and enterprise app development, however I a
 
 ### Learn more about me
 Current Resume (as of July 2023): [Richard Chen's Resume](https://github.com/rrichc/rrichc/blob/main/Richard_Chen_Resume_with_coop_header.pdf)
+
 LinkedIn: [Richard's LinkedIn Profile](https://www.linkedin.com/in/richard-c-chen/)
 
 <!---
