@@ -5,10 +5,13 @@ I am in my 4th year as a student in the Bachelor of Computer Science second-degr
 My interests primarily lie in mobile and enterprise app development, however I am open to all new experiences!
 
 ### Languages and Frameworks
-- Java, Dart, C++, JavaScript, Python
-- Node.js, React, Firebase, Flutter
+- Swift, JavaScript & TypeScript, Python, SQL, Java, Go, Dart, C++
+- Node.js/Express, React, Flask, Firebase, Flutter, Scikit-learn
 
 ### Personal Projects
+- [Spotify Song Recommender](https://github.com/KDhieb/cpsc-455-project) - A Spotify Song Recommender with a JavaScript React frontend, Node.js/Express REST API, Flask backend using a two-level retrieval machine learning pipeline trained with KMeans and KNearestNeighbours
+- Course Grade & Campus Room Explorer - Historical Course Grade and Campus Room HTML Scraper written in TypeScript with an Express backend and Svelte frontend.
+- Payment Processor Simulator - Designed to model a crypto currency payment system written with React, PostgresSQL, Javascript & Node.JS
 - [Discord Hackathon Bot](https://github.com/rrichc/discord_hackathon_bot) - A Discord bot written in JavaScript on Node.js that assists in the formation of hackathon teams with basic team management functions.
 - [Billable Hour Tracker](https://github.com/rrichc/time-tracker) - A desktop app built in Java with Swing enabling the tracking of billable hours for projects using a Test-Driven Development approach.
 
@@ -22,8 +25,7 @@ My interests primarily lie in mobile and enterprise app development, however I a
 - [Team CAR - CodeML 2020](https://www.kaggle.com/c/codeml-challenge4/leaderboard) - Placed 2nd in the Movie Reviews Sentiment Analysis Challenge.
 
 ### Learn more about me
-Current Resume (as of May 2023): [Richard Chen's Resume](https://github.com/rrichc/rrichc/blob/main/Richard_Chen_Resume%20-%20May%2029%202023.pdf)
-
+Current Resume (as of July 2023): [Richard Chen's Resume](https://github.com/rrichc/rrichc/blob/main/Richard_Chen_Resume_with_coop_header.pdf)
 LinkedIn: [Richard's LinkedIn Profile](https://www.linkedin.com/in/richard-c-chen/)
 
 <!---
